@@ -1,0 +1,19 @@
+
+
+
+
+	1. git init : 초기화
+
+	2. git remote add origin '주소'  >> 무응답시 리모트 연결 성공
+
+	3. git status 현재 파일의 상태를 알려주는것
+
+	4. git add . : 추가
+
+	5. 등록한 이메일과 을 입력
+
+	6. 등록한 사용자이름 입력
+
+	7. git commit-m'프로젝트 이름'
+
+	8. git push origin master
